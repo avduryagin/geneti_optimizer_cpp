@@ -1,0 +1,9 @@
+length: 12
+npopul: 100
+mutate_cell: 1
+allow_count: 5
+bound: 180000000.000000
+threshold: 0.700000
+epsilon: 0.001000
+tolerance: 0.700000
+njobs: 1
